@@ -207,7 +207,7 @@
 			<dependency>
 				<groupId>commons-io</groupId>
 				<artifactId>commons-io</artifactId>
-				<version>2.5</version>
+				<version>2.14.0</version>
 			</dependency>
 
 			<dependency>
@@ -219,7 +219,7 @@
 			<dependency>
 				<groupId>junit</groupId>
 				<artifactId>junit</artifactId>
-				<version>4.12</version>
+				<version>4.13.1</version>
 			</dependency>
 
 			<dependency>
@@ -237,7 +237,7 @@
 			<dependency>
 				<groupId>org.codehaus.groovy</groupId>
 				<artifactId>groovy-all</artifactId>
-				<version>2.4.5</version>
+				<version>2.4.21</version>
 			</dependency>
 
 			<dependency>
@@ -325,7 +325,7 @@
 			<dependency>
 				<groupId>org.apache.opennlp</groupId>
 				<artifactId>opennlp-tools</artifactId>
-				<version>1.5.3</version>
+				<version>1.9.5</version>
 			</dependency>
 
 			<dependency>
@@ -343,7 +343,7 @@
 			<dependency>
 				<groupId>org.hsqldb</groupId>
 				<artifactId>hsqldb</artifactId>
-				<version>2.0.0</version>
+				<version>2.7.1</version>
 			</dependency>
 
 			<dependency>
